@@ -1,0 +1,8 @@
+{
+  "config": {
+    // MD013/line-length
+    "MD013": false,
+    // MD014/commands-show-output
+    "MD014": false
+  }
+}
